@@ -2184,3 +2184,87 @@ util.repository.impl.FileFolderRepository is the current repository on: C:/Users
 util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/POM/bin/pom/metrics
 util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/pqmod
 util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/qmood
+
+
+---------------------------------
+Ptidej run on 2019-07-03 10:38:47
+---------------------------------
+
+util.repository.impl.FileRepositoryFactory has for running path: /C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/CPL/bin/
+util.repository.impl.FileRepositoryFactory is creating a ClassFileRepository for: util.repository.impl.FileFolderRepository
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Layouts/bin/ptidej/ui/layout
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Analyses/bin/padl/analysis
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Analyses/bin/ptidej/ui/analysis
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Viewer Extensions/bin/ptidej/viewer/extension
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/codesmell/detection
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/designsmell/detection
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Micro-pattern Analysis/bin/padl/micropattern
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL/bin/padl/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/POM/bin/pom/metrics
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/pqmod
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/qmood
+
+
+---------------------------------
+Ptidej run on 2019-07-03 11:15:33
+---------------------------------
+
+
+
+---------------------------------
+Ptidej run on 2019-07-03 11:15:42
+---------------------------------
+
+util.repository.impl.FileRepositoryFactory has for running path: /C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/CPL/bin/
+util.repository.impl.FileRepositoryFactory is creating a ClassFileRepository for: util.repository.impl.FileFolderRepository
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif
+util.repository.impl.FileRepositoryFactory has for running path: /C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/CPL/bin/
+util.repository.impl.FileRepositoryFactory is creating a ClassFileRepository for: util.repository.impl.FileFolderRepository
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Layouts/bin/ptidej/ui/layout
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Layouts/bin/ptidej/ui/layout
+util.repository.impl.FileFolderRepositoryutil.repository.impl.FileFolderRepository is the current repository on:  is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Analyses/bin/padl/analysisC:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Analyses/bin/padl/analysis
+
+util.repository.impl.FileFolderRepositoryutil.repository.impl.FileFolderRepository is the current repository on:  is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Analyses/bin/ptidej/ui/analysisC:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Analyses/bin/ptidej/ui/analysis
+
+util.repository.impl.FileFolderRepositoryutil.repository.impl.FileFolderRepository is the current repository on:  is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Viewer Extensions/bin/ptidej/viewer/extensionC:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Viewer Extensions/bin/ptidej/viewer/extension
+
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/codesmell/detection
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/codesmell/detection
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/designsmell/detection
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/designsmell/detection
+util.repository.impl.FileFolderRepositoryutil.repository.impl.FileFolderRepository is the current repository on:  is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Micro-pattern Analysis/bin/padl/micropatternC:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Micro-pattern Analysis/bin/padl/micropattern
+
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL/bin/padl/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL/bin/padl/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/POM/bin/pom/metricsutil.repository.impl.FileFolderRepository
+ is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/POM/bin/pom/metrics
+util.repository.impl.FileFolderRepositoryutil.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/pqmod is the current repository on: 
+C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/pqmod
+util.repository.impl.FileFolderRepositoryutil.repository.impl.FileFolderRepository is the current repository on:  is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/qmood
+C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/qmood
+
+
+---------------------------------
+Ptidej run on 2019-07-03 11:30:57
+---------------------------------
+
+util.repository.impl.FileRepositoryFactory has for running path: /C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/CPL/bin/
+util.repository.impl.FileRepositoryFactory is creating a ClassFileRepository for: util.repository.impl.FileFolderRepository
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Layouts/bin/ptidej/ui/layout
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Analyses/bin/padl/analysis
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Analyses/bin/ptidej/ui/analysis
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/Ptidej UI Viewer Extensions/bin/ptidej/viewer/extension
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/codesmell/detection
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SAD/bin/sad/designsmell/detection
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Micro-pattern Analysis/bin/padl/micropattern
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL/bin/padl/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/PADL Design Motifs/bin/padl/motif/visitor
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/POM/bin/pom/metrics
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/pqmod
+util.repository.impl.FileFolderRepository is the current repository on: C:/Users/Dorian/Desktop/POLYTECH/STAGE_UQAM/PtiDej/SQUAD/bin/squad/quality/qmood
