@@ -34,5 +34,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/SQUAD"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Creator AspectJ"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Ptidej UI AspectJ"/>
+	<classpathentry kind="src" path="/PADL Statements"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

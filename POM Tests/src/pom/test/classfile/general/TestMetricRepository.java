@@ -61,7 +61,7 @@ public class TestMetricRepository extends TestCase {
 		Assert.assertEquals((double) 1, result, 0d);
 		Assert
 			.assertEquals(
-				"util.lang.ConcreteReceiverGuard reports a runtime deprecation: calling method \"pom.metrics.repository.USELESS.<init>()\" from class \"pom.test.classfile.general.TestMetricRepository\"\r\nPlease do not instantiate metrics directly to allow efficient caching, use the methods of \"pom.metrics.MetricsRepository\" to obtain metric instances.\r\n",
+				"util.lang.ConcreteReceiverGuard reports a runtime deprecation: calling method \"USELESS.<init>()\" from class \"pom.test.classfile.general.TestMetricRepository\"\r\nPlease do not instantiate metrics directly to allow efficient caching, use the methods of \"MetricsRepository\" to obtain metric instances.\r\n",
 				writer.toString());
 	}
 }

@@ -12,5 +12,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Statements Creator ClassFile"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Generator"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry exported="true" kind="src" path="/Ptidej UI Viewer Standalone Swing"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
