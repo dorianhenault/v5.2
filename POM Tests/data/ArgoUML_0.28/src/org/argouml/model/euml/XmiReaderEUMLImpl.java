@@ -44,7 +44,6 @@ import org.argouml.model.UmlException;
 import org.argouml.model.XmiReader;
 import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.resource.Resource;
-import org.eclipse.emf.edit.domain.EditingDomain;
 import org.xml.sax.InputSource;
 
 /**

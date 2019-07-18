@@ -27,13 +27,12 @@ package org.argouml.ui.cmd;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.argouml.i18n.Translator;
 import org.tigris.gef.base.Cmd;
 import org.tigris.gef.base.Editor;
 import org.tigris.gef.base.Globals;
 import org.tigris.gef.base.SelectionManager;
 import org.tigris.gef.presentation.Fig;
-
-import org.argouml.i18n.Translator;
 
 
 /**

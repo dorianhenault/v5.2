@@ -24,11 +24,8 @@
 
 package org.argouml.uml.ui.behavior.use_cases;
 
-import javax.swing.JList;
-
 import org.argouml.model.Model;
 import org.argouml.uml.ui.ActionNavigateNamespace;
-import org.argouml.uml.ui.UMLLinkedList;
 import org.argouml.uml.ui.foundation.core.PropPanelRelationship;
 import org.argouml.uml.ui.foundation.extension_mechanisms.ActionNewStereotype;
 

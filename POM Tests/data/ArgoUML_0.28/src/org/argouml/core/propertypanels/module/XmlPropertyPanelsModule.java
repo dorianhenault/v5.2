@@ -28,12 +28,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.argouml.application.api.AbstractArgoJPanel;
-import org.argouml.core.propertypanels.panel.XMLPropPanelFactory;
 import org.argouml.core.propertypanels.panel.XmlPropertyPanel;
 import org.argouml.moduleloader.DetailsTabProvider;
 import org.argouml.moduleloader.ModuleInterface;
-import org.argouml.uml.ui.PropPanelFactory;
-import org.argouml.uml.ui.PropPanelFactoryManager;
 
 /**
  * Defines the XMLPropertyPanels module

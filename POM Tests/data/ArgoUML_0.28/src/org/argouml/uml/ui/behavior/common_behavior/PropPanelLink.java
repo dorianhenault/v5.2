@@ -25,7 +25,6 @@
 package org.argouml.uml.ui.behavior.common_behavior;
 
 import java.awt.event.ActionEvent;
-import java.beans.PropertyChangeEvent;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Iterator;

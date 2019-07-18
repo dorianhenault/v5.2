@@ -24,7 +24,6 @@
 
 package org.argouml.uml.ui.behavior.activity_graphs;
 
-import java.beans.PropertyChangeEvent;
 import java.util.ArrayList;
 import java.util.Collection;
 

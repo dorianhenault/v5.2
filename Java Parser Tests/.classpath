@@ -3,8 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Java Parser"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/CPL"/>
-	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.jdt.core_3.12.0.v20160516-2131.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Dorian/Desktop/JARS/org.eclipse.jdt.core-3.8.0.v_c18.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

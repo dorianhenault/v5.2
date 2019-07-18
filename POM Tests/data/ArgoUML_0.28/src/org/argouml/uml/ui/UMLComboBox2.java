@@ -29,7 +29,6 @@ import java.awt.event.ActionEvent;
 import javax.swing.Action;
 import javax.swing.JComboBox;
 
-import org.apache.log4j.Logger;
 import org.argouml.ui.LookAndFeelMgr;
 import org.argouml.ui.targetmanager.TargetEvent;
 import org.argouml.ui.targetmanager.TargetListener;

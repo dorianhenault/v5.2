@@ -24,9 +24,9 @@
 
 package org.argouml.uml.diagram.ui;
 
-import java.util.List;
 import java.awt.Point;
 import java.awt.event.MouseEvent;
+import java.util.List;
 
 import org.tigris.gef.base.Editor;
 import org.tigris.gef.base.FigModifyingModeImpl;

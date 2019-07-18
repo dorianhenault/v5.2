@@ -58,53 +58,53 @@ public class BevelRoundedEdgeBorder extends RoundedEdgeBorder {
    */
   public BevelRoundedEdgeBorder(int bevelType) {
     this.setBevelType(bevelType);
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public BevelRoundedEdgeBorder(int bevelType, int w, int h) {
     super(w, h);
     this.setBevelType(bevelType);
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public BevelRoundedEdgeBorder(int bevelType, Color borderColor) {
     super(borderColor);
     this.setBevelType(bevelType);
     this.setColors();
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public BevelRoundedEdgeBorder(int bevelType, int edgesConstraints) {
     super(edgesConstraints);
     this.setBevelType(bevelType);
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public BevelRoundedEdgeBorder(int bevelType, int w, int h, Color borderColor) {
     super(w, h, borderColor);
     this.setBevelType(bevelType);
     this.setColors();
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public BevelRoundedEdgeBorder(int bevelType, int w, int h, int edgesConstraints) {
     super(w, h, edgesConstraints);
     this.setBevelType(bevelType);
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public BevelRoundedEdgeBorder(int bevelType, Color borderColor, int edgesConstraints) {
     super(borderColor, edgesConstraints);
     this.setBevelType(bevelType);
     this.setColors();
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public BevelRoundedEdgeBorder(int bevelType, int w, int h, Color borderColor, int edgesConstraints) {
     super(w, h, borderColor, edgesConstraints);
     this.setBevelType(bevelType);
     this.setColors();
-    super.defaultInset = this.defaultInset;
+    //super.defaultInset = this.defaultInset;
   }
 
   public void setColors() {

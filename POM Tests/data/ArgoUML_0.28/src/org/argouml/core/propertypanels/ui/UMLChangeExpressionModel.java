@@ -26,10 +26,7 @@ package org.argouml.core.propertypanels.ui;
 
 import org.apache.log4j.Logger;
 import org.argouml.model.Model;
-import org.argouml.ui.targetmanager.TargetEvent;
 import org.argouml.ui.targetmanager.TargetManager;
-import org.argouml.uml.ui.UMLExpressionModel2;
-import org.argouml.uml.ui.UMLUserInterfaceContainer;
 
 /**
  * The model for the boolean expression of a ChangeEvent.

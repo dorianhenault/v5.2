@@ -24,6 +24,7 @@
 
 package org.argouml.util;
 
+import java.awt.Dialog;
 import java.awt.Frame;
 
 import javax.swing.AbstractButton;

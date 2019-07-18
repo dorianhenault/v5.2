@@ -43,10 +43,10 @@ import org.argouml.application.helpers.ResourceLoaderWrapper;
 import org.argouml.configuration.Configuration;
 import org.argouml.i18n.Translator;
 import org.argouml.uml.ui.SaveGraphicsManager;
-import org.tigris.gef.base.SaveGIFAction;
 import org.tigris.gef.base.Editor;
 import org.tigris.gef.base.Globals;
 import org.tigris.gef.base.Layer;
+import org.tigris.gef.base.SaveGIFAction;
 
 /**
  * This class copies a diagram to the system clipboard, this functionality will

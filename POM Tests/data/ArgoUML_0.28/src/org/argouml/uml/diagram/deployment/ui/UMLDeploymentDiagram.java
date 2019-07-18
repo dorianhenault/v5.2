@@ -44,7 +44,6 @@ import org.argouml.uml.diagram.static_structure.ui.FigComment;
 import org.argouml.uml.diagram.static_structure.ui.FigInterface;
 import org.argouml.uml.diagram.ui.ActionSetAddAssociationMode;
 import org.argouml.uml.diagram.ui.ActionSetMode;
-import org.argouml.uml.diagram.ui.FigNodeAssociation;
 import org.argouml.uml.diagram.ui.RadioAction;
 import org.argouml.uml.diagram.ui.UMLDiagram;
 import org.argouml.uml.diagram.use_case.ui.FigActor;
@@ -52,6 +51,7 @@ import org.argouml.util.ToolBarUtility;
 import org.tigris.gef.base.LayerPerspective;
 import org.tigris.gef.base.LayerPerspectiveMutable;
 import org.tigris.gef.base.ModeCreatePolyEdge;
+import org.tigris.gef.graph.GraphModel;
 import org.tigris.gef.presentation.FigNode;
 
 /**

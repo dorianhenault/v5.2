@@ -25,7 +25,6 @@
 package org.argouml.uml.diagram.ui;
 
 import java.awt.Color;
-import java.awt.Graphics;
 
 import org.argouml.uml.diagram.DiagramSettings;
 import org.tigris.gef.base.Layer;

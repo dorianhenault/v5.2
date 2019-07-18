@@ -25,7 +25,6 @@
 package org.argouml.profile.internal.ocl.uml14;
 
 import java.util.Collection;
-import java.util.Map;
 
 import org.apache.log4j.Logger;
 import org.argouml.model.Model;

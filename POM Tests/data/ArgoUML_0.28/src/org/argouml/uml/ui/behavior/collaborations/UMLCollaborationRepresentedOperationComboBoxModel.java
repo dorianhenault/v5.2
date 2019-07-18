@@ -24,7 +24,6 @@
 
 package org.argouml.uml.ui.behavior.collaborations;
 
-import java.beans.PropertyChangeEvent;
 import java.util.ArrayList;
 import java.util.Collection;
 

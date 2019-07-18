@@ -24,7 +24,8 @@
 
 package org.argouml.uml.diagram.layout;
 
-import java.awt.*;
+import java.awt.Dimension;
+import java.awt.Point;
 
 
 /**

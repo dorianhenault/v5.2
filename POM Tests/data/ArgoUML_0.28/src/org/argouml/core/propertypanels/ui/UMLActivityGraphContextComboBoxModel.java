@@ -24,7 +24,6 @@
 
 package org.argouml.core.propertypanels.ui;
 
-import java.beans.PropertyChangeEvent;
 import java.util.ArrayList;
 import java.util.Collection;
 

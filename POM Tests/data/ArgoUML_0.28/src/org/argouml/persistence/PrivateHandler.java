@@ -29,7 +29,7 @@ import org.apache.log4j.Logger;
 import org.argouml.uml.diagram.ui.PathItemPlacement;
 import org.argouml.util.IItemUID;
 import org.argouml.util.ItemUID;
-import org.tigris.gef.base.PathItemPlacementStrategy;
+import org.tigris.gef.base.*;
 import org.tigris.gef.persistence.pgml.Container;
 import org.tigris.gef.persistence.pgml.FigEdgeHandler;
 import org.tigris.gef.persistence.pgml.FigGroupHandler;

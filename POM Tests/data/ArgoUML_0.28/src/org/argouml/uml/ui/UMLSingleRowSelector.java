@@ -26,7 +26,7 @@ package org.argouml.uml.ui;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
-import javax.swing.JList;
+
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.ListModel;

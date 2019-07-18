@@ -35,7 +35,7 @@ import org.argouml.application.api.GUISettingsTabInterface;
 import org.argouml.configuration.Configuration;
 import org.argouml.configuration.ConfigurationKey;
 import org.argouml.i18n.Translator;
-import org.tigris.swidgets.Property;
+import org.eclipse.uml2.uml.Property;
 
 /**
  * Settings dialog tab panel for layout options.<p>

@@ -24,14 +24,11 @@
 
 package org.argouml.uml.ui.behavior.state_machines;
 
-import javax.swing.JList;
-
 import org.argouml.uml.diagram.state.ui.ButtonActionNewCallEvent;
 import org.argouml.uml.diagram.state.ui.ButtonActionNewChangeEvent;
 import org.argouml.uml.diagram.state.ui.ButtonActionNewSignalEvent;
 import org.argouml.uml.diagram.state.ui.ButtonActionNewTimeEvent;
 import org.argouml.uml.ui.ActionNavigateContainerElement;
-import org.argouml.uml.ui.UMLMutableLinkedList;
 import org.argouml.uml.ui.behavior.common_behavior.ActionNewActionSequence;
 import org.argouml.uml.ui.behavior.common_behavior.ActionNewCallAction;
 import org.argouml.uml.ui.behavior.common_behavior.ActionNewCreateAction;

@@ -25,6 +25,7 @@
 package org.argouml.ui;
 
 import javax.swing.Icon;
+
 import org.argouml.cognitive.ToDoItem;
 import org.tigris.gef.presentation.Fig;
 

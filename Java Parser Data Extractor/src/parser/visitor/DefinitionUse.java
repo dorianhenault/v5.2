@@ -14,6 +14,7 @@ import java.util.Collection;
 import java.util.Stack;
 import java.util.TreeMap;
 import java.util.Vector;
+
 import org.eclipse.jdt.core.dom.ASTNode;
 import org.eclipse.jdt.core.dom.AnnotationTypeDeclaration;
 import org.eclipse.jdt.core.dom.AnnotationTypeMemberDeclaration;
@@ -99,6 +100,7 @@ import org.eclipse.jdt.core.dom.VariableDeclarationFragment;
 import org.eclipse.jdt.core.dom.VariableDeclarationStatement;
 import org.eclipse.jdt.core.dom.WhileStatement;
 import org.eclipse.jdt.core.dom.WildcardType;
+
 import parser.defuse.CharComparator;
 import parser.defuse.DefinitionAndUseSymboleTable;
 import parser.defuse.Entity;

@@ -26,8 +26,8 @@ package org.argouml.uml.diagram.sequence;
 
 import java.util.List;
 
-import org.argouml.uml.diagram.sequence.ui.FigMessagePort;
 import org.argouml.uml.diagram.sequence.ui.FigClassifierRole;
+import org.argouml.uml.diagram.sequence.ui.FigMessagePort;
 
 /**
  * A Message Node for the sequence diagram.

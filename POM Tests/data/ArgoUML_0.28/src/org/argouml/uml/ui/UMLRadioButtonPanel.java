@@ -40,8 +40,8 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.border.TitledBorder;
 
-import org.argouml.model.Model;
 import org.argouml.i18n.Translator;
+import org.argouml.model.Model;
 import org.argouml.ui.LookAndFeelMgr;
 import org.argouml.ui.targetmanager.TargetEvent;
 import org.argouml.ui.targetmanager.TargetListener;

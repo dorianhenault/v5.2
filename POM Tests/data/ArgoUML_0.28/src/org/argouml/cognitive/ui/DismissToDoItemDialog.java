@@ -24,6 +24,7 @@
 
 package org.argouml.cognitive.ui;
 
+import java.awt.Dialog;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
@@ -45,7 +46,6 @@ import org.argouml.cognitive.ToDoList;
 import org.argouml.cognitive.Translator;
 import org.argouml.cognitive.UnresolvableException;
 import org.argouml.util.ArgoDialog;
-import org.tigris.swidgets.Dialog;
 
 /**
  * The dialog to dismiss todo items.

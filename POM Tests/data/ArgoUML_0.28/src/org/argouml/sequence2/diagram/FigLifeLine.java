@@ -25,14 +25,12 @@
 package org.argouml.sequence2.diagram;
 
 import java.awt.Rectangle;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
 import org.argouml.uml.diagram.DiagramSettings;
 import org.argouml.uml.diagram.ui.ArgoFigGroup;
-import org.tigris.gef.presentation.Fig;
 import org.tigris.gef.presentation.FigLine;
 import org.tigris.gef.presentation.FigRect;
 
