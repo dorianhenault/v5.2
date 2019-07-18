@@ -22,7 +22,7 @@ import padl.motif.kernel.IDesignLevelModel;
 import padl.motif.kernel.impl.MotifFactory;
 import padl.visitor.IWalker;
 import ptidej.solver.helper.DesignMotifIdentificationCaller;
-import sad.detection.generators.SmellDetectionHelper;
+import sad_tests.sad.detection.generators.SmellDetectionHelper;
 import util.io.ProxyDisk;
 
 public class ComparisonHelper {

@@ -1,5 +1,5 @@
 <HEADER>
-import sad.util.OperatorsCodeSmells;
+import OperatorsCodeSmells;
 
 public class <CODESMELL> extends AbstractCodeSmellDetection implements ICodeSmellDetection {
 

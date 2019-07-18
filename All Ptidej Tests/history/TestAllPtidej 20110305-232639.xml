@@ -2380,23 +2380,23 @@ Caused by: junit.framework.AssertionFailedError: Another constituent should not 
         </testsuite>
       </testsuite>
     </testsuite>
-    <testsuite name="sad.detection.test.TestSAD" time="179.31">
-      <testsuite name="sad.detection.test.generic.BoxPlotTest" time="0.012">
-        <testcase name="testCurrentUpperQuartile" classname="sad.detection.test.generic.BoxPlotTest" time="0.005"/>
-        <testcase name="testCurrentHigherValue" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
-        <testcase name="testCurrentHigherValue2" classname="sad.detection.test.generic.BoxPlotTest" time="0.001"/>
-        <testcase name="testCurrentHighValues" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
-        <testcase name="testCurrentNormalValues" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
-        <testcase name="testCurrentIQR" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
-        <testcase name="testCurrentLowerQuartile" classname="sad.detection.test.generic.BoxPlotTest" time="0.001"/>
-        <testcase name="testCurrentLowerValue" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
-        <testcase name="testCurrentLowValues" classname="sad.detection.test.generic.BoxPlotTest" time="0.001"/>
-        <testcase name="testCurrentMaxBound" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
-        <testcase name="testCurrentMedian" classname="sad.detection.test.generic.BoxPlotTest" time="0.001"/>
-        <testcase name="testCurrentMinBound" classname="sad.detection.test.generic.BoxPlotTest" time="0.001"/>
-        <testcase name="testCurrentOutliers" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
-        <testcase name="testCurrentOutliers2" classname="sad.detection.test.generic.BoxPlotTest" time="0.001"/>
-        <testcase name="testEmptyData" classname="sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+    <testsuite name="sad_tests.sad.detection.test.TestSAD" time="179.31">
+      <testsuite name="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.012">
+        <testcase name="testCurrentUpperQuartile" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.005"/>
+        <testcase name="testCurrentHigherValue" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+        <testcase name="testCurrentHigherValue2" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.001"/>
+        <testcase name="testCurrentHighValues" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+        <testcase name="testCurrentNormalValues" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+        <testcase name="testCurrentIQR" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+        <testcase name="testCurrentLowerQuartile" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.001"/>
+        <testcase name="testCurrentLowerValue" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+        <testcase name="testCurrentLowValues" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.001"/>
+        <testcase name="testCurrentMaxBound" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+        <testcase name="testCurrentMedian" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.001"/>
+        <testcase name="testCurrentMinBound" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.001"/>
+        <testcase name="testCurrentOutliers" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
+        <testcase name="testCurrentOutliers2" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.001"/>
+        <testcase name="testEmptyData" classname="sad_tests.sad.detection.test.generic.BoxPlotTest" time="0.0"/>
       </testsuite>
       <testsuite name="sad.detection.test.xerces.SpaghettiCodeTest" time="20.668">
         <testcase name="testSpaghettiCode" classname="sad.detection.test.xerces.SpaghettiCodeTest" time="20.638"/>

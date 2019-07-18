@@ -35,5 +35,13 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Creator AspectJ"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Ptidej UI AspectJ"/>
 	<classpathentry exported="true" kind="lib" path="/PADL Creator AspectJ/lib/aspectjtools_v1.5.0 WITHOUT OSGI.jar"/>
+	<classpathentry exported="true" kind="lib" path="/SQUAD/lib/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="src" path="/PADL Creator JavaFile (Eclipse)"/>
+	<classpathentry kind="src" path="/PADL Creator JavaFile (JavaC)"/>
+	<classpathentry kind="src" path="/PADL Statements Creator AOL"/>
+	<classpathentry kind="src" path="/PADL Statements Creator ClassFile"/>
+	<classpathentry kind="src" path="/Java Parser"/>
+	<classpathentry kind="lib" path="/SQUAD/lib/jdom.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

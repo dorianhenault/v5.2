@@ -14,5 +14,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/Ptidej Solver 4"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Ptidej Solver Tests"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Design Motifs"/>
+	<classpathentry kind="src" path="/Ptidej UI Viewer Standalone Swing"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
