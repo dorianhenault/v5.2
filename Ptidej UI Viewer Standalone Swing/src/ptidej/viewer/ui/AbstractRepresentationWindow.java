@@ -41,7 +41,7 @@ import ptidej.ui.event.ISelectionListener;
 import ptidej.ui.kernel.Constituent;
 import ptidej.ui.kernel.builder.AspectJBuilder;
 import ptidej.ui.kernel.builder.Builder;
-import ptidej.ui.kernel.builder.CPPBuilder;
+import ptidej_ui_cpp.ptidej.ui.kernel.builder.CPPBuilder;
 import ptidej.ui.layout.IUILayout;
 import ptidej.ui.occurrence.awt.PrimitiveFactory;
 import ptidej.ui.primitive.IPrimitiveFactory;

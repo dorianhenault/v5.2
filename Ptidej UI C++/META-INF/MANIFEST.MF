@@ -3,8 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Ptidej UI Cpp
 Bundle-SymbolicName: Ptidej_UI_Cpp
 Bundle-Version: 1.0.0
-Export-Package: ptidej.ui.kernel,
- ptidej.ui.kernel.builder
+Export-Package: images
 Require-Bundle: CPL,
  PADL,
  Ptidej_UI
