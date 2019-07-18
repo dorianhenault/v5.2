@@ -32,10 +32,10 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import org.argouml.model.NotImplementedException;
 import org.argouml.model.AbstractModelFactory;
 import org.argouml.model.IllegalModelElementConnectionException;
 import org.argouml.model.MetaTypes;
+import org.argouml.model.NotImplementedException;
 import org.argouml.model.UmlFactory;
 import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.util.EcoreUtil;

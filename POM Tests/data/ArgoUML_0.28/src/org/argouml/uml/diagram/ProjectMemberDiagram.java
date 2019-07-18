@@ -25,8 +25,8 @@
 package org.argouml.uml.diagram;
 
 
-import org.argouml.kernel.Project;
 import org.argouml.kernel.AbstractProjectMember;
+import org.argouml.kernel.Project;
 import org.tigris.gef.util.Util;
 
 /**

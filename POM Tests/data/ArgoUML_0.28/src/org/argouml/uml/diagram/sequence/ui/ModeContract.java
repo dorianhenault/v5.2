@@ -26,14 +26,12 @@ package org.argouml.uml.diagram.sequence.ui;
 
 import java.awt.Color;
 import java.awt.Graphics;
-
 import java.awt.event.MouseEvent;
 
+import org.argouml.i18n.Translator;
 import org.tigris.gef.base.Editor;
 import org.tigris.gef.base.FigModifyingModeImpl;
 import org.tigris.gef.base.Globals;
-
-import org.argouml.i18n.Translator;
 
 public class ModeContract extends FigModifyingModeImpl {
 

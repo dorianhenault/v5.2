@@ -26,6 +26,7 @@ package org.argouml.uml.generator.ui;
 
 import java.awt.BorderLayout;
 import java.awt.Component;
+import java.awt.Dialog;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -61,7 +62,6 @@ import org.argouml.uml.generator.CodeGenerator;
 import org.argouml.uml.generator.GeneratorManager;
 import org.argouml.uml.generator.Language;
 import org.argouml.util.ArgoDialog;
-import org.tigris.swidgets.Dialog;
 
 /**
  * The dialog that starts the generation of classes.

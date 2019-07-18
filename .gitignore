@@ -1,10 +1,18 @@
 /.metadata/
 /Temp/
 bin/
+Z - Mixed/Z - Mixed.iml
+SugiBib/SugiBib.iml
+SQUAD/SQUAD.iml
+SQUAD Tests/SQUAD Tests.iml
+SAD/SAD.iml
+SAD Tests/SAD Tests.iml
+SAD Rules Creator/SAD Rules Creator.iml
 Ptit_Dej.iml
 Ptidej/Ptidej.iml
 Ptidej UI/Ptidej UI.iml
 Ptidej UI Viewer/Ptidej UI Viewer.iml
+Ptidej UI Viewer Standalone Swing/Ptidej UI Viewer Standalone Swing.udb
 Ptidej UI Viewer Standalone Swing/Ptidej UI Viewer Standalone Swing.iml
 Ptidej UI Viewer Extensions/Ptidej UI Viewer Extensions.iml
 Ptidej UI Viewer Blackbox/Ptidej UI Viewer Blackbox.iml
@@ -57,6 +65,32 @@ PADL Creator MSE/PADL Creator MSE.iml
 PADL Creator JavaFile-ClassFile Tests/PADL Creator JavaFile-ClassFile Tests.iml
 PADL Creator JavaFile (JavaC)/PADL Creator JavaFile (JavaC).iml
 PADL Creator JavaFile (JavaC) Tests/PADL Creator JavaFile (JavaC) Tests.iml
+PADL Creator AspectJ/PADL Creator AspectJ.iml
+PADL Creator AspectJ Tests/PADL Creator AspectJ Tests.iml
+PADL Creator AOL/PADL Creator AOL.iml
+PADL Creator AOL Tests/PADL Creator AOL Tests.iml
+PADL Code-Diagram Comparison/PADL Code-Diagram Comparison.iml
+PADL Analyses/PADL Analyses.iml
+PADL Analyses Tests/PADL Analyses Tests.iml
+MoDeC Solver/MoDeC Solver.iml
+MoDeC Solver Tests/MoDeC Solver Tests.iml
+Java Parser/Java Parser.iml
+DRAM Libraries/DRAM Libraries.iml
+DRAM Examples/DRAM Examples.iml
+DOT/DOT.iml
+Copyright Management/Copyright Management.iml
+Caffeine/Caffeine.iml
+Caffeine Tests/Caffeine Tests.iml
+Caffeine Examples/Caffeine Examples.iml
+Caffeine Analyses/Caffeine Analyses.iml
+CPL/CPL.iml
+CPL Tests/CPL Tests.iml
+All Ptidej Tests/All Ptidej Tests.iml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/encodings.xml
 PADL Creator JavaFile (Eclipse)/PADL Creator JavaFile (Eclipse).iml
 PADL Creator JavaFile (Eclipse) Tests/PADL Creator JavaFile (Eclipse) Tests.iml
 PADL Creator ClassFile/PADL Creator ClassFile.iml
@@ -94,6 +128,9 @@ Java Parser Tests/resources/NestingClasses/NestingClasses.iml
 Java Parser Tests/resources/CodeAnalyser/CodeAnalyser.iml
 Java Parser Tests/Java Parser Tests.iml
 Java Parser Data Extractor/Java Parser Data Extractor.iml
+Java Parser Tests/resources/NestingClasses/NestingClasses.iml
+Java Parser Tests/resources/CodeAnalyser/CodeAnalyser.iml
+Java Parser Tests/Java Parser Tests.iml
 JChoco/JChoco.iml
 JCT/JCT.iml
 JCT Utils/JCT Utils.iml
@@ -131,3 +168,59 @@ SAD Rules Creator/SAD Rules Creator.iml
 PtiDej.udb
 .idea/encodings.xml
 Ptidej UI Viewer Standalone Swing/Ptidej UI Viewer Standalone Swing.udb
+Ptidej UI Primitives SWT/Ptidej UI Primitives SWT.iml
+Ptidej UI Primitives AWT/Ptidej UI Primitives AWT.iml
+Ptidej UI Layouts/Ptidej UI Layouts.iml
+Ptidej UI C++/Ptidej UI C++.iml
+Ptidej UI AspectJ Tests/Ptidej UI AspectJ Tests.iml
+Ptidej UI Analyses/Ptidej UI Analyses.iml
+Ptidej Tests/Ptidej Tests.iml
+Ptidej Solver Tests/Ptidej Solver Tests.iml
+PADL Generator PageRank/PADL Generator PageRank.iml
+PADL Generator PageRank Tests/PADL Generator PageRank Tests.iml
+PADL Design Motifs/PADL Design Motifs.iml
+PADL Creator XMI/PADL Creator XMI.iml
+PADL Creator XMI Tests/PADL Creator XMI Tests.iml
+PADL Creator MSE/PADL Creator MSE.iml
+PADL Creator JavaFile-ClassFile Tests/PADL Creator JavaFile-ClassFile Tests.iml
+PADL Creator JavaFile (JavaC)/PADL Creator JavaFile (JavaC).iml
+MoDeC Metamodel/MoDeC Metamodel.iml
+MoDeC Invoker/MoDeC Invoker.iml
+MoDeC Bytecode Instrumentation/MoDeC Bytecode Instrumentation.iml
+MoDeC Bytecode Instrumentation Tests/MoDeC Bytecode Instrumentation Tests.iml
+MoDeC Bytecode Instrumentation Tests/Instrumented Classes/SADJP Builder/SADPJ Builder.iml
+MoDeC Bytecode Instrumentation Tests/Instrumented Classes/JEdit v4.2/jEdit v4.2.iml
+Mendel/Mendel.iml
+POM/POM.iml
+POM Tests/data/ArgoUML_0.28/ArgoUML_0.28.iml
+POM Tests/POM Tests.iml
+PADL/PADL.iml
+PADL Tests/PADL Tests.iml
+PADL Serialiser NeoDatis/PADL Serialiser NeoDatis.iml
+PADL Serialiser JOS/PADL Serialiser JOS.iml
+PADL Serialiser JOS Tests/PADL Serialiser JOS Tests.iml
+PADL Serialiser DB4O/PADL Serialiser DB4O.iml
+PADL Serialiser DB4O Tests/PADL Serialiser DB4O Tests.iml
+PADL Refactorings/PADL Refactorings.iml
+PADL Refactorings Tests/PADL Refactorings Tests.iml
+PADL Statements/PADL Statements.iml
+PADL Statements Creator ClassFile/PADL Statements Creator ClassFile.iml
+PADL Statements Creator AOL/PADL Statements Creator AOL.iml
+PADL Serialiser Tests/PADL Serialiser Tests.iml
+PADL Generator/PADL Generator.iml
+PADL Generator Tests/PADL Generator Tests.iml
+PADL Creator C# v1 Tests/PADL Creator C# v1 Tests.iml
+Ptidej Solver Metrics/Ptidej Solver Metrics.iml
+Ptidej Solver Metrics Tests/Ptidej Solver Metrics Tests.iml
+Ptidej Solver Data/Ptidej Solver Data.iml
+Ptidej Solver 4/Ptidej Solver 4.iml
+Ptidej Solver 3/Ptidej Solver 3.iml
+Ptidej Reporting/Ptidej Reporting.iml
+Ptidej Reporting Tests/Ptidej Reporting Tests.iml
+PtiDej.udb
+PADL Micro-pattern Analysis/PADL Micro-pattern Analysis.iml
+PADL Micro-pattern Analysis Tests/PADL Micro-pattern Analysis Tests.iml
+PADL JNI/PADL JNI.iml
+PADL JNI Tests/rsc/ogre4j/ogre4j/ogre4j.iml
+PADL JNI Tests/PADL JNI Tests.iml
+PADL Creator JavaFile (JavaC) Tests/PADL Creator JavaFile (JavaC) Tests.iml

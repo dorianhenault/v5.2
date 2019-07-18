@@ -25,8 +25,8 @@
 package org.argouml.cognitive.checklist;
 
 import java.io.Serializable;
-import java.util.Hashtable;
 import java.util.Enumeration;
+import java.util.Hashtable;
 
 /**
  * The CheckManager keeps track of which Checklists should be

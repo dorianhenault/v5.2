@@ -4,17 +4,12 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<groupId>org.eclipse.cdt</groupId>
-		<artifactId>cdt-parent</artifactId>
-		<version>8.1.1-SNAPSHOT</version>
-		<relativePath>../../pom.xml</relativePath>
-	</parent>
+
 
 	<version>5.2.0-SNAPSHOT</version>
 	<artifactId>org.eclipse.cdt.core.win32.x86_64</artifactId>
-	<packaging>eclipse-plugin</packaging>
-
+	<groupId>org.eclipse.cdt</groupId>
+		
 	<build>
 		<plugins>
 			<plugin>

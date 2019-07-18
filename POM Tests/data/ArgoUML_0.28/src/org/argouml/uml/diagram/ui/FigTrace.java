@@ -26,6 +26,7 @@
 package org.argouml.uml.diagram.ui;
 
 import java.awt.Color;
+
 import org.tigris.gef.presentation.ArrowHeadTriangle;
 import org.tigris.gef.presentation.FigEdgeLine;
 

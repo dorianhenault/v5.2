@@ -24,11 +24,11 @@
 
 package org.argouml.ui.explorer;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
-import org.argouml.ui.explorer.rules.PerspectiveRule;
 import org.argouml.i18n.Translator;
+import org.argouml.ui.explorer.rules.PerspectiveRule;
 
 /**
  * Represents a perspective (or view) of the uml model for display in the

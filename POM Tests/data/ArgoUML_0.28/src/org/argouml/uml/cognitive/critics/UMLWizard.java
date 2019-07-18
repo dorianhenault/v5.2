@@ -25,8 +25,8 @@
 
 package org.argouml.uml.cognitive.critics;
 
-import org.argouml.cognitive.ToDoItem;
 import org.argouml.cognitive.ListSet;
+import org.argouml.cognitive.ToDoItem;
 import org.argouml.cognitive.critics.Wizard;
 import org.argouml.model.Model;
 

@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/antlr-2.7.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/commons-logging-1.0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/gef-0.13.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/java-interfaces.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/jmi.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/jmiutils.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/log4j-1.2.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/mdrapi.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/mof.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/nbmdr.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/ocl-argo-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/openide-util.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/swidgets-0.1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/Code and Libraries/ArgoUML-0.28-libs/toolbar-1.4.1-20071227.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/org.eclipse.emf.common-2.6.0.v20100614-1136.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/org.eclipse.uml2.uml-3.1.0.v201006071150.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/org.eclipse.emf.ecore.xmi-2.5.0.v20100521-1846.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/ecore-2.5.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/edit-2.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sultanib/Desktop/PC1/ArgoUML_0.28/org.eclipse.uml2.common_1.5.0.v201005031530.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/commons-logging-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/ecore-2.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/ecore-edit-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/edit-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/gef.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/gef-0.12.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/java-interfaces.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/jmi-20030918.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/jmiutils-20050711.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/log4j-1.2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/mdrapi-20050711.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/mof-20030918.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/nbmdr-20050711.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/ocl-1.1.0-v200706071520.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/ocl-1.1.0-v200706071712.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/ocl-1.1.0-v200706201508.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.emf.common-2.6.0.v20100614-1136.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.emf.common-2.6.0.v20100614-1136-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.emf.ecore.xmi-2.5.0.v20100521-1846.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.emf.ecore.xmi-2.5.0.v20100521-1846-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.emf.ecore-2.6.0.v20100614-1136.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.emf.edit-2.11.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.emf.mapping.ecore2xml-2.5.0.v20100521-1847.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.uml2.common.edit_2.1.0.v20170227-0935.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.uml2.common_1.5.0.v201005031530.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.uml2.common-1.5.0.v201005031530.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.uml2.uml.edit_5.0.0.v20140910-1354.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.uml2.uml.resources-3.1.0.v201005031530.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org.eclipse.uml2.uml-3.1.0.v201006071150.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/org-openide-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/toolbar-1.4.1-20071227.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dorian/Desktop/JARS/ArgoUML/uberfire-widgets-core-client-0.1.4.final.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

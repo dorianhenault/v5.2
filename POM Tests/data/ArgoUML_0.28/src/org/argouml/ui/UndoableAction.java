@@ -25,6 +25,7 @@
 package org.argouml.ui;
 
 import java.awt.event.ActionEvent;
+
 import javax.swing.AbstractAction;
 import javax.swing.Icon;
 

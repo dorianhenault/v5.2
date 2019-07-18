@@ -25,8 +25,8 @@
 package org.argouml.uml.diagram.layout;
 
 import java.awt.Point;
-import java.awt.Rectangle;
 import java.awt.Polygon;
+import java.awt.Rectangle;
 
 /** LayoutHelper is a utility class which mainly returns various types
  *  of routing polygons for different kind of connection lines between

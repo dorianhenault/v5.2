@@ -25,6 +25,7 @@
 package org.argouml.ui;
 
 import java.awt.Font;
+
 import javax.swing.plaf.ColorUIResource;
 import javax.swing.plaf.FontUIResource;
 import javax.swing.plaf.metal.MetalTheme;

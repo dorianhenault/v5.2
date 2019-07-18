@@ -25,6 +25,7 @@
 package org.argouml.swingext;
 
 import java.awt.Dimension;
+
 import javax.swing.JPanel;
 
 /** A Swing panel that displays nothing, but takes up a specified

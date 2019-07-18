@@ -34,7 +34,6 @@ import org.apache.log4j.Logger;
 import org.argouml.kernel.DelayedVChangeListener;
 import org.argouml.uml.diagram.DiagramSettings;
 import org.tigris.gef.presentation.Fig;
-import org.tigris.gef.presentation.FigEdge;
 import org.tigris.gef.presentation.FigNode;
 import org.tigris.gef.presentation.FigPoly;
 

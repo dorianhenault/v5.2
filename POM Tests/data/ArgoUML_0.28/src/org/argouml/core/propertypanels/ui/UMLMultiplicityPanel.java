@@ -33,7 +33,6 @@ import java.util.List;
 
 import javax.swing.Action;
 import javax.swing.JCheckBox;
-import javax.swing.JComboBox;
 import javax.swing.JPanel;
 
 import org.argouml.model.Model;

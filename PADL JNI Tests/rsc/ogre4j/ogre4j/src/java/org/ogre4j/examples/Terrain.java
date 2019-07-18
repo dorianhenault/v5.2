@@ -28,7 +28,7 @@ public class Terrain extends ExampleApplication {
     @Override
     protected void createScene() {
         try {
-            MovablePlane waterPlane = new MovablePlane();
+            //MovablePlane waterPlane = new MovablePlane();
 
             // Set ambient light
             sceneMgr.setAmbientLight(new ColourValue(0.5f, 0.5f, 0.5f));

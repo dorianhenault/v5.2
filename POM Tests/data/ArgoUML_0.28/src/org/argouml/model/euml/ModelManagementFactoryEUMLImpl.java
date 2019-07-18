@@ -32,7 +32,6 @@ import org.argouml.model.NotImplementedException;
 import org.eclipse.emf.ecore.resource.Resource;
 import org.eclipse.emf.ecore.util.EcoreUtil;
 import org.eclipse.emf.edit.domain.EditingDomain;
-import org.eclipse.uml2.common.edit.command.ChangeCommand;
 import org.eclipse.uml2.uml.ElementImport;
 import org.eclipse.uml2.uml.Model;
 import org.eclipse.uml2.uml.Namespace;

@@ -27,13 +27,11 @@
 package org.argouml.model.euml;
 
 import org.argouml.model.AbstractModelFactory;
-import org.argouml.model.NotImplementedException;
 import org.argouml.model.UseCasesFactory;
 import org.eclipse.uml2.uml.Actor;
 import org.eclipse.uml2.uml.Extend;
 import org.eclipse.uml2.uml.ExtensionPoint;
 import org.eclipse.uml2.uml.Include;
-import org.eclipse.uml2.uml.InstanceSpecification;
 import org.eclipse.uml2.uml.Namespace;
 import org.eclipse.uml2.uml.UMLFactory;
 import org.eclipse.uml2.uml.UseCase;

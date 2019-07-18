@@ -24,11 +24,11 @@
 
 package org.argouml.uml.ui.behavior.state_machines;
 
-import org.argouml.model.Model;
-import org.argouml.uml.ui.UMLComboBoxModel2;
-
 import java.util.ArrayList;
 import java.util.Iterator;
+
+import org.argouml.model.Model;
+import org.argouml.uml.ui.UMLComboBoxModel2;
 
 /**
  * @author pepargouml@yahoo.es

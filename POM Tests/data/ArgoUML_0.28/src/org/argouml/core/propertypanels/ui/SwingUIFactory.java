@@ -24,8 +24,6 @@
 
 package org.argouml.core.propertypanels.ui;
 
-import org.argouml.uml.ui.behavior.state_machines.*;
-
 import javax.swing.DefaultListCellRenderer;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
@@ -93,6 +91,7 @@ import org.argouml.uml.ui.behavior.state_machines.ActionSetStubStateReferenceSta
 import org.argouml.uml.ui.behavior.state_machines.ActionSetSubmachineStateSubmachine;
 import org.argouml.uml.ui.behavior.state_machines.UMLCompositeStateSubvertexList;
 import org.argouml.uml.ui.behavior.state_machines.UMLCompositeStateSubvertexListModel;
+import org.argouml.uml.ui.behavior.state_machines.UMLEventTransitionListModel;
 import org.argouml.uml.ui.behavior.state_machines.UMLGuardTransitionListModel;
 import org.argouml.uml.ui.behavior.state_machines.UMLStateDeferrableEventList;
 import org.argouml.uml.ui.behavior.state_machines.UMLStateDeferrableEventListModel;

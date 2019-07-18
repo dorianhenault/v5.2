@@ -31,7 +31,6 @@ import java.util.List;
 import javax.swing.JPanel;
 
 import org.apache.log4j.Logger;
-
 import org.argouml.cognitive.ui.WizStepChoice;
 import org.argouml.i18n.Translator;
 import org.argouml.model.Model;

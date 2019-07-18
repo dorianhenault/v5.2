@@ -24,8 +24,8 @@
 
 package org.argouml.uml.ui;
 
-import org.argouml.uml.diagram.DiagramFactory;
 import org.argouml.uml.diagram.ArgoDiagram;
+import org.argouml.uml.diagram.DiagramFactory;
 
 /**
  * Action to trigger creation of new collaboration diagram.

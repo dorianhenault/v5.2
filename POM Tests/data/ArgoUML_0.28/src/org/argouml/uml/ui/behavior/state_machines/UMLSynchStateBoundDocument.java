@@ -24,11 +24,11 @@
 
 package org.argouml.uml.ui.behavior.state_machines;
 
-import org.argouml.model.Model;
-import org.argouml.uml.ui.UMLPlainTextDocument;
-
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
+
+import org.argouml.model.Model;
+import org.argouml.uml.ui.UMLPlainTextDocument;
 
 /**
  * The Document/model for the bound of a synch state.

@@ -11,9 +11,11 @@
 package parser.visitor;
 
 import java.util.Stack;
+
 import org.eclipse.jdt.core.dom.CompilationUnit;
 import org.eclipse.jdt.core.dom.MethodDeclaration;
 import org.eclipse.jdt.core.dom.ReturnStatement;
+
 import parser.wrapper.ExtendedASTVisitor;
 import parser.wrapper.NamedCompilationUnit;
 
