@@ -39,7 +39,6 @@ import ptidej.ui.canvas.event.ICanvasListener;
 import ptidej.ui.event.GraphEvent;
 import ptidej.ui.event.ISelectionListener;
 import ptidej.ui.kernel.Constituent;
-import ptidej.ui.kernel.builder.AspectJBuilder;
 import ptidej.ui.kernel.builder.Builder;
 import ptidej_ui_cpp.ptidej.ui.kernel.builder.CPPBuilder;
 import ptidej.ui.layout.IUILayout;
@@ -491,7 +490,7 @@ public abstract class AbstractRepresentationWindow extends JInternalFrame
 						"generateModelFromAspectJLSTFiles",
 						filesArray,
 						namesArray,
-						AspectJBuilder
+						ptidej_ui_aspectJ.ptidej.ui.kernel.builder.AspectJBuilder
 							.getCurrentBuilder(AbstractRepresentationWindow.this
 								.getPrimitiveFactory()));
 				worker.execute();

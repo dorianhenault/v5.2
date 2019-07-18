@@ -34,5 +34,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/SQUAD"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Creator AspectJ"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Ptidej UI AspectJ"/>
+	<classpathentry exported="true" kind="lib" path="/PADL Creator AspectJ/lib/aspectjtools_v1.5.0 WITHOUT OSGI.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
