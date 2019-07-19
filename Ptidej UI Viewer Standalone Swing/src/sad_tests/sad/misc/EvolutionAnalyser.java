@@ -25,9 +25,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
-import ptidej.solver.Occurrence;
-import ptidej.solver.OccurrenceBuilder;
-import ptidej.solver.OccurrenceComponent;
+import ptidej_.ptidej.solver.Occurrence;
+import ptidej_.ptidej.solver.OccurrenceBuilder;
+import ptidej_.ptidej.solver.OccurrenceComponent;
 import util.io.ReaderInputStream;
 
 /**

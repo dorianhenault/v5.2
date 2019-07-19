@@ -11,8 +11,8 @@
 package ptidej.viewer.ui;
 
 import ptidej.ui.canvas.event.ICanvasListener;
-import ptidej.viewer.event.IGraphModelListener;
-import ptidej.viewer.event.ISourceModelListener;
+import ptidej_ui_viewer.ptidej.viewer.event.IGraphModelListener;
+import ptidej_ui_viewer.ptidej.viewer.event.ISourceModelListener;
 
 public interface IListeningWindow extends ICanvasListener, IGraphModelListener,
 		ISourceModelListener, IWindow {

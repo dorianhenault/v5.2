@@ -13,6 +13,7 @@ package padl.model.comparison;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
+
 import padl.creator.xmiclassdiagram.XMICreator;
 import padl.generator.helper.ModelGenerator;
 import padl.kernel.IAbstractLevelModel;
@@ -21,7 +22,7 @@ import padl.kernel.exception.CreationException;
 import padl.motif.kernel.IDesignLevelModel;
 import padl.motif.kernel.impl.MotifFactory;
 import padl.visitor.IWalker;
-import ptidej.solver.helper.DesignMotifIdentificationCaller;
+import ptidej_solver_tests.ptidej.solver.helper.DesignMotifIdentificationCaller;
 import sad_tests.sad.detection.generators.SmellDetectionHelper;
 import util.io.ProxyDisk;
 

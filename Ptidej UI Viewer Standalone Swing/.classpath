@@ -43,5 +43,9 @@
 	<classpathentry kind="src" path="/PADL Statements Creator ClassFile"/>
 	<classpathentry kind="src" path="/Java Parser"/>
 	<classpathentry kind="lib" path="/SQUAD/lib/jdom.jar"/>
+	<classpathentry kind="src" path="/DRAM Libraries"/>
+	<classpathentry kind="src" path="/DRAM OADymPPaC"/>
+	<classpathentry kind="src" path="/Mendel"/>
+	<classpathentry kind="lib" path="/Ptidej Reporting/lib/jasperreports-3.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

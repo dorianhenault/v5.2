@@ -22,7 +22,7 @@ import padl.kernel.ICodeLevelModel;
 import padl.kernel.exception.CreationException;
 import padl.kernel.impl.Factory;
 import ptidej.solver.Occurrence;
-import ptidej.solver.OccurrenceBuilder;
+import ptidej_.ptidej.solver.OccurrenceBuilder;
 import ptidej.solver.Problem;
 import ptidej.solver.domain.Manager;
 import ptidej.solver.fingerprint.ReducedDomainBuilder;

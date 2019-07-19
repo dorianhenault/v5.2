@@ -16,7 +16,7 @@ import java.io.PrintWriter;
 import java.util.Properties;
 import javax.swing.AbstractAction;
 import padl.kernel.IIdiomLevelModel;
-import ptidej.viewer.ViewerCommons;
+import ptidej_ui_viewer.ptidej.viewer.ViewerCommons;
 import ptidej.viewer.ui.DesktopPane;
 import ptidej.viewer.utils.Resources;
 import util.help.Browser;

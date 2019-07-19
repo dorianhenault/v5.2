@@ -2069,313 +2069,313 @@ Caused by: junit.framework.AssertionFailedError: Another constituent should not 
         <testcase name="test02" classname="pom.test.specific.TestWMC1" time="0.0"/>
       </testsuite>
     </testsuite>
-    <testsuite name="ptidej.solver.test.TestPtidejSolver" time="2.944">
-      <testsuite name="ptidej.solver.domain.test.Manager" time="0.081">
-        <testcase name="testLoader" classname="ptidej.solver.domain.test.Manager" time="0.081"/>
+    <testsuite name="ptidej_solver_tests.ptidej.solver.test.TestPtidejSolver" time="2.944">
+      <testsuite name="ptidej_solver_tests.ptidej.solver.domain.test.Manager" time="0.081">
+        <testcase name="testLoader" classname="ptidej_solver_tests.ptidej.solver.domain.test.Manager" time="0.081"/>
       </testsuite>
-      <testsuite name="ptidej.solver.test.claire.TestClairePtidejSolver" time="2.695">
-        <testsuite name="ptidej.solver.test.claire.defect.TestSuite" time="0.16">
-          <testsuite name="ptidej.solver.test.claire.defect.AssociationDistance" time="0.075">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.defect.AssociationDistance" time="0.074"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.defect.AssociationDistance" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.defect.AssociationDistance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.claire.defect.AssociationDistance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.claire.defect.AssociationDistance" time="0.001"/>
+      <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.TestClairePtidejSolver" time="2.695">
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.defect.TestSuite" time="0.16">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.defect.AssociationDistance" time="0.075">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.AssociationDistance" time="0.074"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.AssociationDistance" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.AssociationDistance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.AssociationDistance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.AssociationDistance" time="0.001"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.085">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.084"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.001"/>
-          </testsuite>
-        </testsuite>
-        <testsuite name="ptidej.solver.test.claire.approximate.TestSuite" time="0.579">
-          <testsuite name="ptidej.solver.test.claire.approximate.BadComposition" time="0.058">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.approximate.BadComposition" time="0.058"/>
-          </testsuite>
-          <testsuite name="ptidej.solver.test.claire.approximate.BadInheritance" time="0.113">
-            <testcase name="testAC4Solution1" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.11"/>
-            <testcase name="testAC4Solution2" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.001"/>
-            <testcase name="testAC4Solution3" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testAC4Solution4" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testAC4Solution5" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testAC4Solution6" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testCustomSolutions1" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.001"/>
-            <testcase name="testCustomSolutions2" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testCustomSolutions3" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testCustomSolutions4" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testCustomSolutions5" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testCustomSolutions6" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-            <testcase name="testNumberOfAC4Solutions" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.001"/>
-            <testcase name="testNumberOfCustomSolutions" classname="ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
-          </testsuite>
-          <testsuite name="ptidej.solver.test.claire.approximate.Composite" time="0.158">
-            <testcase name="testCompositeDesignPattern1" classname="ptidej.solver.test.claire.approximate.Composite" time="0.093"/>
-            <testcase name="testCompositeDesignPattern2" classname="ptidej.solver.test.claire.approximate.Composite" time="0.065"/>
-          </testsuite>
-          <testsuite name="ptidej.solver.test.claire.approximate.Facade" time="0.099">
-            <testcase name="testFacadeDesignPattern1" classname="ptidej.solver.test.claire.approximate.Facade" time="0.046"/>
-            <testcase name="testFacadeDesignPattern2" classname="ptidej.solver.test.claire.approximate.Facade" time="0.053"/>
-          </testsuite>
-          <testsuite name="ptidej.solver.test.claire.approximate.FactoryMethod" time="0.102">
-            <testcase name="testFactoryMethodDesignPattern1" classname="ptidej.solver.test.claire.approximate.FactoryMethod" time="0.055"/>
-            <testcase name="testFactoryMethodDesignPattern2" classname="ptidej.solver.test.claire.approximate.FactoryMethod" time="0.047"/>
-          </testsuite>
-          <testsuite name="ptidej.solver.test.claire.approximate.Mediator" time="0.049">
-            <testcase name="testMediatorDesignPattern1" classname="ptidej.solver.test.claire.approximate.Mediator" time="0.049"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.085">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.084"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.defect.InheritanceTreeDepth" time="0.001"/>
           </testsuite>
         </testsuite>
-        <testsuite name="ptidej.solver.test.claire.approximate.combinatorial.TestSuite" time="0.164">
-          <testsuite name="ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.053">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.052"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.001"/>
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.TestSuite" time="0.579">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadComposition" time="0.058">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadComposition" time="0.058"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.048">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.047"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.001"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.113">
+            <testcase name="testAC4Solution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.11"/>
+            <testcase name="testAC4Solution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.001"/>
+            <testcase name="testAC4Solution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testAC4Solution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testAC4Solution5" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testAC4Solution6" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testCustomSolutions1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.001"/>
+            <testcase name="testCustomSolutions2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testCustomSolutions3" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testCustomSolutions4" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testCustomSolutions5" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testCustomSolutions6" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
+            <testcase name="testNumberOfAC4Solutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.001"/>
+            <testcase name="testNumberOfCustomSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.BadInheritance" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.063">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.062"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.001"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Composite" time="0.158">
+            <testcase name="testCompositeDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Composite" time="0.093"/>
+            <testcase name="testCompositeDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Composite" time="0.065"/>
           </testsuite>
-        </testsuite>
-        <testsuite name="ptidej.solver.test.claire.example.TestSuite" time="0.479">
-          <testsuite name="ptidej.solver.test.claire.example.Composite1" time="0.129">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.example.Composite1" time="0.128"/>
-            <testcase name="testSolutions" classname="ptidej.solver.test.claire.example.Composite1" time="0.001"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Facade" time="0.099">
+            <testcase name="testFacadeDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Facade" time="0.046"/>
+            <testcase name="testFacadeDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Facade" time="0.053"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.example.Composite2" time="0.092">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.example.Composite2" time="0.091"/>
-            <testcase name="testSolutions" classname="ptidej.solver.test.claire.example.Composite2" time="0.001"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.FactoryMethod" time="0.102">
+            <testcase name="testFactoryMethodDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.FactoryMethod" time="0.055"/>
+            <testcase name="testFactoryMethodDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.FactoryMethod" time="0.047"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.example.Composite3" time="0.093">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.example.Composite3" time="0.093"/>
-            <testcase name="testSolutions" classname="ptidej.solver.test.claire.example.Composite3" time="0.0"/>
-          </testsuite>
-          <testsuite name="ptidej.solver.test.claire.example.Composite4" time="0.086">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.example.Composite4" time="0.085"/>
-            <testcase name="testSolutions" classname="ptidej.solver.test.claire.example.Composite4" time="0.001"/>
-          </testsuite>
-          <testsuite name="ptidej.solver.test.claire.example.Composite5" time="0.079">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.example.Composite5" time="0.078"/>
-            <testcase name="testSolutions" classname="ptidej.solver.test.claire.example.Composite5" time="0.001"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Mediator" time="0.049">
+            <testcase name="testMediatorDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.Mediator" time="0.049"/>
           </testsuite>
         </testsuite>
-        <testsuite name="ptidej.solver.test.claire.roundtrip.TestSuite" time="0.855">
-          <testsuite name="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.414">
-            <testcase name="testCompositeDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.06"/>
-            <testcase name="testCompositeDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.049"/>
-            <testcase name="testFacadeDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.051"/>
-            <testcase name="testFacadeDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.049"/>
-            <testcase name="testFactoryMethodDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.05"/>
-            <testcase name="testFactoryMethodDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.054"/>
-            <testcase name="testMediatorDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.051"/>
-            <testcase name="testMediatorDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.05"/>
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.TestSuite" time="0.164">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.053">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.052"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition1" time="0.001"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.441">
-            <testcase name="testCompositeDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.054"/>
-            <testcase name="testCompositeDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.052"/>
-            <testcase name="testFacadeDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.069"/>
-            <testcase name="testFacadeDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.05"/>
-            <testcase name="testFactoryMethodDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.051"/>
-            <testcase name="testFactoryMethodDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.048"/>
-            <testcase name="testMediatorDesignPattern1" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.066"/>
-            <testcase name="testMediatorDesignPattern2" classname="ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.051"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.048">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.047"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition2" time="0.001"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.063">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.062"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.001"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.approximate.combinatorial.BadComposition3" time="0.0"/>
           </testsuite>
         </testsuite>
-        <testsuite name="ptidej.solver.test.claire.simple.TestSuite" time="0.458">
-          <testsuite name="ptidej.solver.test.claire.simple.Composition" time="0.051">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.Composition" time="0.05"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.Composition" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.Composition" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.Composition" time="0.001"/>
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.example.TestSuite" time="0.479">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite1" time="0.129">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite1" time="0.128"/>
+            <testcase name="testSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite1" time="0.001"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.simple.Creation" time="0.049">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.Creation" time="0.049"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.Creation" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.Creation" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.Creation" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite2" time="0.092">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite2" time="0.091"/>
+            <testcase name="testSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite2" time="0.001"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.simple.GoodInheritance" time="0.066">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.061"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution10" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
-            <testcase name="testSolution11" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution12" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution13" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
-            <testcase name="testSolution7" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
-            <testcase name="testSolution8" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution9" classname="ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite3" time="0.093">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite3" time="0.093"/>
+            <testcase name="testSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite3" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.simple.Ignorance" time="0.069">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.Ignorance" time="0.067"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.Ignorance" time="0.001"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.Ignorance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.Ignorance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.claire.simple.Ignorance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.claire.simple.Ignorance" time="0.001"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite4" time="0.086">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite4" time="0.085"/>
+            <testcase name="testSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite4" time="0.001"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.simple.Inheritance" time="0.053">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.051"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution10" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution11" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution12" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution13" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution7" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.001"/>
-            <testcase name="testSolution8" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution9" classname="ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite5" time="0.079">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite5" time="0.078"/>
+            <testcase name="testSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.example.Composite5" time="0.001"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.simple.InheritancePath" time="0.054">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.052"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.001"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.001"/>
-            <testcase name="testSolution10" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution7" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution8" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution9" classname="ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+        </testsuite>
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.TestSuite" time="0.855">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.414">
+            <testcase name="testCompositeDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.06"/>
+            <testcase name="testCompositeDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.049"/>
+            <testcase name="testFacadeDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.051"/>
+            <testcase name="testFacadeDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.049"/>
+            <testcase name="testFactoryMethodDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.05"/>
+            <testcase name="testFactoryMethodDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.054"/>
+            <testcase name="testMediatorDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.051"/>
+            <testcase name="testMediatorDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.CompleteRoundtrip" time="0.05"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.simple.Use" time="0.05">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.Use" time="0.051"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.Use" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.Use" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.Use" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.441">
+            <testcase name="testCompositeDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.054"/>
+            <testcase name="testCompositeDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.052"/>
+            <testcase name="testFacadeDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.069"/>
+            <testcase name="testFacadeDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.05"/>
+            <testcase name="testFactoryMethodDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.051"/>
+            <testcase name="testFactoryMethodDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.048"/>
+            <testcase name="testMediatorDesignPattern1" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.066"/>
+            <testcase name="testMediatorDesignPattern2" classname="ptidej_solver_tests.ptidej.solver.test.claire.roundtrip.HalfRoundtrip" time="0.051"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.claire.simple.StrictInheritance" time="0.065">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.062"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.001"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.001"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.001"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
+        </testsuite>
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.TestSuite" time="0.458">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.Composition" time="0.051">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Composition" time="0.05"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Composition" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Composition" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Composition" time="0.001"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.Creation" time="0.049">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Creation" time="0.049"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Creation" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Creation" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Creation" time="0.0"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.066">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.061"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution10" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
+            <testcase name="testSolution11" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution12" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution13" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
+            <testcase name="testSolution7" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.001"/>
+            <testcase name="testSolution8" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution9" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.GoodInheritance" time="0.0"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.Ignorance" time="0.069">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Ignorance" time="0.067"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Ignorance" time="0.001"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Ignorance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Ignorance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Ignorance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Ignorance" time="0.001"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.053">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.051"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution10" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution11" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution12" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution13" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution7" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.001"/>
+            <testcase name="testSolution8" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution9" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Inheritance" time="0.0"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.054">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.052"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.001"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.001"/>
+            <testcase name="testSolution10" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution7" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution8" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution9" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.InheritancePath" time="0.0"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.Use" time="0.05">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Use" time="0.051"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Use" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Use" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.Use" time="0.0"/>
+          </testsuite>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.065">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.062"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.001"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.001"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.001"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.claire.simple.StrictInheritance" time="0.0"/>
           </testsuite>
         </testsuite>
       </testsuite>
-      <testsuite name="ptidej.solver.test.java.TestJavaPtidejSolver" time="0.168">
-        <testsuite name="ptidej.solver.test.java.combinatorial.TestSuite" time="0.016">
-          <testsuite name="ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.016">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.016"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.0"/>
-            <testcase name="testSolution" classname="ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.0"/>
+      <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.TestJavaPtidejSolver" time="0.168">
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.combinatorial.TestSuite" time="0.016">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.016">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.016"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.0"/>
+            <testcase name="testSolution" classname="ptidej_solver_tests.ptidej.solver.test.java.combinatorial.CompositionAndInheritance" time="0.0"/>
           </testsuite>
         </testsuite>
-        <testsuite name="ptidej.solver.test.java.example.TestSuite" time="0.033">
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.example.TestSuite" time="0.033">
           <testsuite name="ptidej.solver.test.java.example.Composite1" time="0.033">
             <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.example.Composite1" time="0.033"/>
             <testcase name="testSolutions" classname="ptidej.solver.test.java.example.Composite1" time="0.0"/>
           </testsuite>
         </testsuite>
-        <testsuite name="ptidej.solver.test.java.simple.TestSuite" time="0.119">
-          <testsuite name="ptidej.solver.test.java.simple.Composition" time="0.006">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.Composition" time="0.005"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.Composition" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.Composition" time="0.001"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.Composition" time="0.0"/>
+        <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.TestSuite" time="0.119">
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.Composition" time="0.006">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Composition" time="0.005"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Composition" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Composition" time="0.001"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Composition" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.java.simple.Creation" time="0.007">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.Creation" time="0.006"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.Creation" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.Creation" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.Creation" time="0.001"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.Creation" time="0.007">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Creation" time="0.006"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Creation" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Creation" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Creation" time="0.001"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.java.simple.GoodInheritance" time="0.025">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.023"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.001"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution10" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution11" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution12" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution13" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution7" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.001"/>
-            <testcase name="testSolution8" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
-            <testcase name="testSolution9" classname="ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.025">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.023"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.001"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution10" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution11" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution12" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution13" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution7" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.001"/>
+            <testcase name="testSolution8" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
+            <testcase name="testSolution9" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.GoodInheritance" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.java.simple.Ignorance" time="0.01">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.Ignorance" time="0.009"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.Ignorance" time="0.01">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Ignorance" time="0.009"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Ignorance" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.java.simple.Inheritance" time="0.021">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.Inheritance" time="0.019"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.Inheritance" time="0.001"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution10" classname="ptidej.solver.test.java.simple.Inheritance" time="0.001"/>
-            <testcase name="testSolution11" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution12" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution13" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution7" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution8" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
-            <testcase name="testSolution9" classname="ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.021">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.019"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.001"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution10" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.001"/>
+            <testcase name="testSolution11" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution12" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution13" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution7" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution8" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
+            <testcase name="testSolution9" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Inheritance" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.java.simple.InheritancePath" time="0.028">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.024"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
-            <testcase name="testSolution10" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution7" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
-            <testcase name="testSolution8" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
-            <testcase name="testSolution9" classname="ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.028">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.024"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
+            <testcase name="testSolution10" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution7" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
+            <testcase name="testSolution8" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.001"/>
+            <testcase name="testSolution9" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.InheritancePath" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.java.simple.Use" time="0.01">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.Use" time="0.009"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.Use" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.Use" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.Use" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.Use" time="0.01">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Use" time="0.009"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Use" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Use" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.Use" time="0.0"/>
           </testsuite>
-          <testsuite name="ptidej.solver.test.java.simple.StrictInheritance" time="0.012">
-            <testcase name="testNumberOfSolutions" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.012"/>
-            <testcase name="testSolution1" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolution2" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolutionPercentage" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolution3" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolution4" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolution5" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
-            <testcase name="testSolution6" classname="ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
+          <testsuite name="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.012">
+            <testcase name="testNumberOfSolutions" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.012"/>
+            <testcase name="testSolution1" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolution2" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolutionPercentage" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolution3" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolution4" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolution5" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
+            <testcase name="testSolution6" classname="ptidej_solver_tests.ptidej.solver.test.java.simple.StrictInheritance" time="0.0"/>
           </testsuite>
         </testsuite>
       </testsuite>

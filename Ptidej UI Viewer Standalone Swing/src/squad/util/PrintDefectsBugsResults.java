@@ -40,9 +40,9 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.jdom.Element;
 import org.jdom.input.SAXBuilder;
-import ptidej.solver.Occurrence;
-import ptidej.solver.OccurrenceBuilder;
-import ptidej.solver.OccurrenceComponent;
+import ptidej_.ptidej.solver.Occurrence;
+import ptidej_.ptidej.solver.OccurrenceBuilder;
+import ptidej_.ptidej.solver.OccurrenceComponent;
 import util.io.ReaderInputStream;
 
 public class PrintDefectsBugsResults {

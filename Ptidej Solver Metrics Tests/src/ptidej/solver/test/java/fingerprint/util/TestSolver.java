@@ -26,7 +26,7 @@ import padl.kernel.IGhost;
 import padl.kernel.exception.CreationException;
 import padl.kernel.impl.Factory;
 import ptidej.solver.Occurrence;
-import ptidej.solver.OccurrenceBuilder;
+import ptidej_.ptidej.solver.OccurrenceBuilder;
 import ptidej.solver.OccurrenceComparator;
 import ptidej.solver.OccurrenceComponent;
 import ptidej.solver.Problem;

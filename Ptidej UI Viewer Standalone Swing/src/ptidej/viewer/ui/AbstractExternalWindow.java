@@ -13,7 +13,7 @@ package ptidej.viewer.ui;
 import javax.swing.JFrame;
 import ptidej.ui.canvas.event.CanvasEvent;
 import ptidej.ui.event.GraphEvent;
-import ptidej.viewer.event.SourceAndGraphModelEvent;
+import ptidej_ui_viewer.ptidej.viewer.event.SourceAndGraphModelEvent;
 
 /**
  * @author Yann-Gaël Guéhéneuc

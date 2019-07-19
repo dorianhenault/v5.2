@@ -26,7 +26,7 @@ import ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.kernel.ModelGraph;
 import ptidej.ui.kernel.builder.Builder;
-import ptidej.viewer.awt.ActionListener;
+import ptidej_ui_viewer_awt.ptidej.viewer.awt.ActionListener;
 
 /**
  * @author Yann-Gaël Guéhéneuc

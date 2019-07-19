@@ -20,7 +20,7 @@ import java.io.StringWriter;
 import java.util.Properties;
 import javax.swing.JPanel;
 import padl.kernel.IAbstractLevelModel;
-import ptidej.viewer.ViewerCommons;
+import ptidej_ui_viewer.ptidej.viewer.ViewerCommons;
 import ptidej.viewer.ui.DesktopPane;
 import ptidej.viewer.utils.Resources;
 import ptidej.viewer.utils.Controls;

@@ -20,7 +20,7 @@ import ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.kernel.builder.Builder;
 import ptidej.ui.layout.repository.SugiyamaLayout;
-import ptidej.viewer.LaidoutModelGraph;
+import ptidej_ui_viewer.ptidej.viewer.LaidoutModelGraph;
 import ptidej.viewer.ui.AbstractRepresentationWindow;
 import ptidej.viewer.ui.panel.CanvasPanel;
 import ptidej.viewer.utils.SilentModelStatistics;

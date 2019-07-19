@@ -34,7 +34,7 @@
 	</parameter>
 
 	<field name="DesignSmellName" class="java.lang.String"/>
-	<field name="Occurrence" class="ptidej.solver.Occurrence"/>
+	<field name="Occurrence" class="ptidej_.ptidej.solver.Occurrence"/>
 
 		<background>
 			<band height="0"  isSplitAllowed="true" >

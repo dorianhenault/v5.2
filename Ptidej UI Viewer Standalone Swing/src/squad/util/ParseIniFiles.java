@@ -21,9 +21,9 @@ import java.util.Properties;
 import java.util.Set;
 import java.util.TreeSet;
 import org.apache.commons.lang.ArrayUtils;
-import ptidej.solver.Occurrence;
-import ptidej.solver.OccurrenceBuilder;
-import ptidej.solver.OccurrenceComponent;
+import ptidej_.ptidej.solver.Occurrence;
+import ptidej_.ptidej.solver.OccurrenceBuilder;
+import ptidej_.ptidej.solver.OccurrenceComponent;
 import util.io.ProxyDisk;
 
 public class ParseIniFiles {

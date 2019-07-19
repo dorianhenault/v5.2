@@ -3,7 +3,8 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Ptidej
 Bundle-SymbolicName: Ptidej
 Bundle-Version: 1.0.0
-Export-Package: ptidej.solver;uses:="padl.util.adapter,padl.kernel"
+Export-Package: au.com.bytecode.opencsv,
+ au.com.bytecode.opencsv.bean
 Require-Bundle: CPL,
  JChoco,
  PADL,

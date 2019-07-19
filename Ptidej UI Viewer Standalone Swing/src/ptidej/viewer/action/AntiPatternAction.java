@@ -23,7 +23,7 @@ import java.util.Properties;
 import java.util.Set;
 import javax.swing.AbstractAction;
 import padl.kernel.IAbstractLevelModel;
-import ptidej.viewer.ViewerCommons;
+import ptidej_ui_viewer.ptidej.viewer.ViewerCommons;
 import ptidej.viewer.ui.DesktopFrame;
 import ptidej.viewer.ui.DesktopPane;
 import ptidej.viewer.ui.rulecard.RuleCardEvent;

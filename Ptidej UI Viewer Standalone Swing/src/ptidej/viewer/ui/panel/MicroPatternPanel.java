@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 import padl.kernel.IFirstClassEntity;
 import padl.micropattern.IMicroPatternDetection;
 import padl.micropattern.MicroPatternDetectionsRepository;
-import ptidej.viewer.ViewerCommons;
+import ptidej_ui_viewer.ptidej.viewer.ViewerCommons;
 import ptidej.viewer.ui.DesktopPane;
 import ptidej.viewer.utils.Controls;
 import ptidej.viewer.utils.Resources;

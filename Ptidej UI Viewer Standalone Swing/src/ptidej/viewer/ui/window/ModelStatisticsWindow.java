@@ -10,8 +10,8 @@
  ******************************************************************************/
 package ptidej.viewer.ui.window;
 
-import ptidej.viewer.awt.entities.StatisticsPanel;
-import ptidej.viewer.event.SourceAndGraphModelEvent;
+import ptidej_ui_viewer_awt.ptidej.viewer.awt.entities.StatisticsPanel;
+import ptidej_ui_viewer.ptidej.viewer.event.SourceAndGraphModelEvent;
 import ptidej.viewer.ui.AbstractExternalWindow;
 import ptidej.viewer.ui.DesktopPane;
 import ptidej.viewer.utils.Resources;

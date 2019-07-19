@@ -12,7 +12,7 @@ package ptidej.viewer.ui.panel;
 
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
-import ptidej.viewer.ViewerCommons;
+import ptidej_ui_viewer.ptidej.viewer.ViewerCommons;
 import ptidej.viewer.utils.Resources;
 import ptidej.viewer.utils.Controls;
 import ptidej.viewer.widget.EmbeddedPanel;
@@ -121,7 +121,7 @@ public class ToolPanel extends JPanel {
 		content = new EmbeddedPanel();
 		ViewerCommons.addAnalyses(
 			content,
-			"ptidej.viewer.extension.ViewerExtensionsRepository",
+			"ViewerExtensionsRepository",
 			"getInstance",
 			"getViewerExtensions",
 			Controls.getInstance().areToolsListening());
