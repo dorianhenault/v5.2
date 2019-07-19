@@ -23,10 +23,10 @@ import util.help.Browser;
 import util.io.ProxyConsole;
 import util.io.ProxyDisk;
 import util.io.ReaderInputStream;
-import epi.solver.Solution;
-import epi.solver.StringBuilder;
-import epi.ui.EPIDialog;
-import epi.ui.SolutionDialog;
+import epi_.epi.solver.Solution;
+import epi_.epi.solver.StringBuilder;
+import epi_.epi.ui.EPIDialog;
+import epi_.epi.ui.SolutionDialog;
 
 public class EPIAction extends AbstractAction {
 	private static final long serialVersionUID = 1L;
