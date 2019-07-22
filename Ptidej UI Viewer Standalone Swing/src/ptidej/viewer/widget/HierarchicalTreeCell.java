@@ -22,7 +22,7 @@ import padl.kernel.IAbstractModel;
 import padl.kernel.IConstituent;
 import padl.kernel.IFirstClassEntity;
 import padl.kernel.impl.Factory;
-import ptidej.ui.awt.AWTCanvas;
+import ptidej_ui_primitives_awt.ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.kernel.ModelGraph;
 import ptidej.ui.kernel.builder.Builder;

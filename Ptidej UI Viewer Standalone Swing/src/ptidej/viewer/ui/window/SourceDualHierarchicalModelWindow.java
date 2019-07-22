@@ -40,7 +40,7 @@ import padl.kernel.IFirstClassEntity;
 import padl.kernel.IInterface;
 import padl.kernel.IInterfaceImplementer;
 import padl.util.NotFilter;
-import ptidej.ui.awt.AWTCanvas;
+import ptidej_ui_primitives_awt.ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.canvas.event.CanvasEvent;
 import ptidej.ui.canvas.event.ICanvasListener;

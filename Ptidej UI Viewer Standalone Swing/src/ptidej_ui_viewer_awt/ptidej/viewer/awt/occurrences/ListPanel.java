@@ -33,7 +33,7 @@ import ptidej_.ptidej.solver.Occurrence;
 import ptidej_.ptidej.solver.OccurrenceComponent;
 import ptidej.ui.IDrawable;
 import ptidej.ui.ISelectable;
-import ptidej.ui.awt.AWTCanvas;
+import ptidej_ui_primitives_awt.ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.canvas.event.CanvasEvent;
 import ptidej.ui.event.GraphEvent;

@@ -47,5 +47,6 @@
 	<classpathentry kind="src" path="/DRAM OADymPPaC"/>
 	<classpathentry kind="src" path="/Mendel"/>
 	<classpathentry kind="lib" path="/Ptidej Reporting/lib/jasperreports-3.0.1.jar"/>
+	<classpathentry kind="src" path="/PADL Creator XMI"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

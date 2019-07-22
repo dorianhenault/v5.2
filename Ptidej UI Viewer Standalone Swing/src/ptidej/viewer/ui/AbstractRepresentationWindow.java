@@ -42,7 +42,7 @@ import ptidej.ui.kernel.Constituent;
 import ptidej.ui.kernel.builder.Builder;
 import ptidej_ui_cpp.ptidej.ui.kernel.builder.CPPBuilder;
 import ptidej.ui.layout.IUILayout;
-import ptidej.ui.occurrence.awt.PrimitiveFactory;
+import ptidej_ui_primitives_awt.ptidej.ui.occurrence.awt.PrimitiveFactory;
 import ptidej.ui.primitive.IPrimitiveFactory;
 import ptidej_ui_viewer.ptidej.viewer.IRepresentation;
 import ptidej_ui_viewer_awt.ptidej.viewer.awt.IAWTRepresentation;

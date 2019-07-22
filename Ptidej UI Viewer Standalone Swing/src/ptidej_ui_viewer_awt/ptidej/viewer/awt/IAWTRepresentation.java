@@ -11,7 +11,7 @@
 package ptidej_ui_viewer_awt.ptidej.viewer.awt;
 
 import padl.event.IModelListener;
-import ptidej.ui.awt.AWTCanvas;
+import ptidej_ui_primitives_awt.ptidej.ui.awt.AWTCanvas;
 import ptidej_ui_viewer.ptidej.viewer.IRepresentation;
 
 /**

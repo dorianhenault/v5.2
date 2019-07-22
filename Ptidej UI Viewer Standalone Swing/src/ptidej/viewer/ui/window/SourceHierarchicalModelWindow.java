@@ -34,7 +34,7 @@ import padl.kernel.IAbstractModel;
 import padl.kernel.IConstituent;
 import padl.kernel.IContainer;
 import padl.kernel.IFirstClassEntity;
-import ptidej.ui.awt.AWTCanvas;
+import ptidej_ui_primitives_awt.ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.kernel.Constituent;
 import ptidej.ui.kernel.ModelGraph;

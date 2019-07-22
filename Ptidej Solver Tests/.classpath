@@ -13,6 +13,5 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Analyses"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/PADL Design Motifs"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
-	<classpathentry kind="src" path="/Ptidej UI Viewer Standalone Swing"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

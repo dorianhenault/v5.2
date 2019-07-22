@@ -16,7 +16,7 @@ import java.awt.event.AdjustmentListener;
 import java.util.concurrent.Callable;
 import padl.event.IModelListener;
 import padl.kernel.IAbstractModel;
-import ptidej.ui.awt.AWTCanvas;
+import ptidej_ui_primitives_awt.ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.kernel.builder.Builder;
 import ptidej.ui.layout.repository.SugiyamaLayout;

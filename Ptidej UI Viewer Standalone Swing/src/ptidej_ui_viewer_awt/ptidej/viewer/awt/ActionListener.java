@@ -13,7 +13,7 @@ package ptidej_ui_viewer_awt.ptidej.viewer.awt;
 import java.awt.event.ActionEvent;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import ptidej.ui.awt.AWTCanvas;
+import ptidej_ui_primitives_awt.ptidej.ui.awt.AWTCanvas;
 import ptidej.ui.canvas.Canvas;
 import ptidej.ui.kernel.Constituent;
 import ptidej.ui.kernel.ModelGraph;
