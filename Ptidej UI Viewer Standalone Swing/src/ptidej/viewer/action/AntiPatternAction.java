@@ -29,7 +29,7 @@ import ptidej.viewer.ui.DesktopPane;
 import ptidej.viewer.ui.rulecard.RuleCardEvent;
 import ptidej.viewer.utils.Resources;
 import ptidej.viewer.utils.Utils;
-import sad.rule.creator.utils.DetectionAlgorithmGenerator;
+import sad_rules_creator.sad.rule.creator.utils.DetectionAlgorithmGenerator;
 import sad.util.ClassLoader;
 import util.io.ProxyConsole;
 import util.io.ProxyDisk;

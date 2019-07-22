@@ -29,8 +29,8 @@ import ptidej.viewer.ui.DesktopPane;
 import ptidej.viewer.ui.panel.CanvasPanel;
 import ptidej.viewer.ui.rulecard.RuleCardEvent;
 import ptidej.viewer.widget.ScrollPane;
-import sad.rule.creator.RULECreator;
-import sad.rule.creator.utils.DetectionAlgorithmGenerator;
+import sad_rules_creator.sad.rule.creator.RULECreator;
+import sad_rules_creator.sad.rule.creator.utils.DetectionAlgorithmGenerator;
 import util.io.ProxyConsole;
 
 public final class RuleCardWindow extends AbstractInternalWindow {
