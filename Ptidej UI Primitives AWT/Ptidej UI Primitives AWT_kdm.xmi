@@ -19921,7 +19921,7 @@
         <itemUnit type="/0/@model.0/@codeElement.1/@codeElement.0"/>
         <indexUnit type="/0/@model.0/@codeElement.1/@codeElement.0"/>
       </codeElement>
-      <codeElement xsi:type="code:ArrayType" name="ptidej.ui.kernel.IntermediaryPoint[]" size="1">
+      <codeElement xsi:type="code:ArrayType" name="IntermediaryPoint[]" size="1">
         <itemUnit type="/0/@model.0/@codeElement.0/@codeElement.0/@codeElement.5/@codeElement.1"/>
         <indexUnit type="/0/@model.0/@codeElement.1/@codeElement.0"/>
       </codeElement>
